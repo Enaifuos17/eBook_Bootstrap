@@ -27,9 +27,14 @@
 
 3 - Colors & Typography
 
-- check the colors_typography.html file
+- check the 3_colors_typography.html file
 
 --------------------
 --------------------
 
 4 - Buttons & Links
+
+- check the 4_buttons_buttonGroups.html file
+
+--------------------
+--------------------
